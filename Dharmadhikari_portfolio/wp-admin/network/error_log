@@ -1,0 +1,4 @@
+[13-Nov-2019 22:24:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_current_screen() in /home/samiksha/public_html/wp-admin/network/upgrade.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/samiksha/public_html/wp-admin/network/upgrade.php on line 18

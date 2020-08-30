@@ -1,0 +1,133 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Blog Bank Classic\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-07-31 02:23+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.0; wp-5.1.1"
+
+#: template-parts/content-search.php:10 template-parts/content.php:10
+msgid ", "
+msgstr ""
+
+#. Name of the theme
+msgid "Blog Bank Classic"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Blog Bank Classic is an awesome WordPress animated free responsive blog and "
+"megazin WordPress theme. This is the child theme of Blog Bank theme. Blog "
+"Bank Classic is an ideal for blog and megazin site with morden animated "
+"touch to display your website very beautiful and good looking.  Blog Bank "
+"Classic is editable and super flexible new functionality. The theme has nice,"
+" beautiful and professional layouts. This theme is made for any search "
+"engine, SEO Compatible.  The theme is very simple and totally responsive.  "
+"Html5 and css3 based coded.  It is the blog and megazin theme so you can "
+"create awesome blog and megazin site by the Blog Bank Classic theme."
+msgstr ""
+
+#: template-parts/content-search.php:50 template-parts/content.php:64
+msgid "Continue Reading..."
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: template-parts/content.php:53
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: footer.php:38
+msgid "Facebook"
+msgstr ""
+
+#: inc/customizer.php:40
+msgid "Header Center"
+msgstr ""
+
+#: inc/customizer.php:41
+msgid "Header Left"
+msgstr ""
+
+#: inc/customizer.php:34
+msgid "Header position"
+msgstr ""
+
+#: footer.php:23
+msgid "https://wordpress.org/"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://wordpress.org/themes/author/wpthemespace/"
+msgstr ""
+
+#. URI of the theme
+msgid "https://wpthemespace.com/product/blog-bank-classic/"
+msgstr ""
+
+#: footer.php:46
+msgid "Instagram"
+msgstr ""
+
+#: footer.php:50
+msgid "Linkedin"
+msgstr ""
+
+#: template-parts/content-search.php:11 template-parts/content.php:11
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#: header.php:37
+msgid "Menu"
+msgstr ""
+
+#: template-parts/content.php:73
+msgid "Pages:"
+msgstr ""
+
+#. %s: CMS name, i.e. WordPress.
+#: footer.php:25
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: inc/customizer.php:35
+msgid "Set blog header position."
+msgstr ""
+
+#: header.php:27
+msgid "Skip to content"
+msgstr ""
+
+#: template-parts/content.php:69
+#, php-format
+msgid "Tagged: %1$s"
+msgstr ""
+
+#. 1: Theme name, 2: Theme author.
+#: footer.php:30
+#, php-format
+msgid "Theme: %1$s by %2$s"
+msgstr ""
+
+#: header.php:37
+msgid "Toggle navigation"
+msgstr ""
+
+#: footer.php:42
+msgid "Twitter"
+msgstr ""
+
+#. Author of the theme
+msgid "WP Theme Space"
+msgstr ""

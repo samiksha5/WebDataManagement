@@ -1,0 +1,104 @@
+body,p {
+    font-family: 'Crimson Pro', serif;
+    font-size: 16px;
+}
+h1, h2, h3, h4, h5, h6{
+    font-family: 'Roboto', sans-serif;
+}
+h2, h2 a{
+    font-family: 'Roboto', sans-serif;
+}
+
+button, html input[type=button], input[type=reset], input[type=submit] {
+    min-height: 37px;
+}
+.post-meta span {
+    border: none;
+    margin-right: 0;
+}
+.admin-bar nav#mainNav {
+    margin-top: 32px;
+}
+a.redmore {
+    border: 1px solid #ccc;
+    padding: 10px 20px;
+    text-align: center;
+    margin: auto;
+    display: table;
+}
+nav.black-bg.affix-top {
+    padding: 15px 0;
+    transition: 0.5s;
+}
+div#content {
+    margin-top: 80px;
+}
+.navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:focus, .navbar-default .navbar-nav>.open>a:hover,.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover{
+	background:inherit;
+	color:inherit;
+}
+
+nav.black-bg.affix {
+    transition: 0.5s;
+}
+h1.site-title {
+    margin: -5px 0 3px 0;
+}
+p.site-description {
+    margin-bottom: 0;
+}
+h1.site-title a {
+    font-size: 28px;
+    font-weight: 700;
+}
+.black-bg.affix h1.site-title a {
+    font-size: 25px;
+}
+nav.black-bg.affix .site-description {
+    display: none;
+}
+a.redmore:hover {
+    background: #ededed;
+}
+.lite-footer .footer-top.footer-social > ul {
+    padding: 0;
+}
+.widget input[type=search] {
+    border-radius: 0;
+}
+.content-media {
+    position: relative;
+}
+.post-meta a {
+    text-transform: uppercase;
+    font-size: 10px;
+}
+.lite-footer .footer-bottom {
+    margin-top: 22px;
+}
+.black-bg, .black-bg a,
+ .black-bg p,
+ #scrollUp,
+ #scrollUp:hover,
+.search-submit,.submit{
+	background:#333;
+	color:#fff
+}
+#scrollUp i,
+ .black-bg h1.site-title a:hover,
+ .black-bg h1.site-title a,
+ .navbar-default .navbar-nav>li>a,
+ .navbar-default .navbar-nav>li>a:hover,
+ .dropdown-menu li a{
+	color:#fff
+}
+.black-bg a,#scrollUp:hover,.search-submit:hover,.submit:hover,
+.navbar-default .navbar-nav>li>a:hover{
+	opacity:0.8;
+}
+.black-bg a:hover,#scrollUp, .black-bg h1.site-title a,.dropdown-menu li a,.navbar-default .navbar-nav>li>a{
+	opacity:1;
+}
+.copy-text > p {
+    margin-bottom: 0;
+}
